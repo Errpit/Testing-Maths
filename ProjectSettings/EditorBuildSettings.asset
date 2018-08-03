@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Lighting Lab/Bright Room.unity
+    guid: 3a44e369fa3bbdc4aba7e146bb9d39ea
+  m_configObjects: {}
