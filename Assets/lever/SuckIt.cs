@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SuckIt : MonoBehaviour {
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
             Debug.Log("sucked");
         if (other.CompareTag("Player"))
