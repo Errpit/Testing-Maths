@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Lighting Lab/Bright Room.unity
-    guid: 3a44e369fa3bbdc4aba7e146bb9d39ea
+    path: Assets/Particle Testing/Particle Lab.unity
+    guid: e68fdd8f70c752449ad5af737aea0043
   m_configObjects: {}
